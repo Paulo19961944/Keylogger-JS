@@ -10,7 +10,6 @@ btn.addEventListener("click", capturarTeclado)
 function capturarTeclado() {
     console.log("O seu nome é: " + nome.value + " O seu email é: " + email.value + " A sua senha é: " + password.value + " A sua conta bancária é: " + banco.value)
 }
-
 /** Função Teclado */
 let textoDigitado = "";
 function teclaPressionada(event) {
