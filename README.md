@@ -12,4 +12,4 @@ Para usar é só apertar a tecla F12 e clicar em console, tudo o que você escre
 
 # Conclusão (Apenas para Cunho Educativo)
 
-Tenho algumas ideias muito legais com esse código, mas estou muito feliz com ele. Espero que gostem, muito obrigado :) :):)
+Tenho algumas ideias muito legais com esse código, mas estou muito feliz com ele. Espero que gostem, muito obrigado :) :) :)
